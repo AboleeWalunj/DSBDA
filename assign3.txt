@@ -1,8 +1,4 @@
-## Gruop B
-### Assingment 4
-Name: Pranav Dandgaval
-T21136
-Dv: 1
+
 
 """ Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs for assignment
 no. 2 and 3 ( Group B)"""
